@@ -1,0 +1,43 @@
+/* CSS Document */
+body {
+	margin: 0;
+}
+#Zong {
+	width: 760px;
+	margin: 0 auto;
+}
+#Nav {
+	width: 760px;
+	height: 50px;
+	background-color: #B94C61;
+	margin: 0 auto;
+	text-align: center;
+}
+#Header {
+	width: 760px;
+	height: 150px;
+	background-color: #4A4796;
+	margin: 0 auto;
+	text-align: center;
+}
+#Content {
+	width: 480px;
+	height: 500px;
+	background-color:#67B94B;
+	float: left;
+	text-align: center;
+}
+#Side_bar {
+	width: 280px;
+	height: 500px;
+	background-color:#547A47;
+	float: right;
+	text-align: center;
+}
+#Footer {
+	width: 760px;
+	height: 66px;
+	background-color: #9F722E;
+	clear: both;
+	text-align: center;
+}

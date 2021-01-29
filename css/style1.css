@@ -1,0 +1,25 @@
+body {margin: 0;background:#F4E9E9;}
+div {margin: 0 auto;}
+a {text-decoration: none;}
+hr {clear: both;}
+img {display: block;}
+#Zong {margin: 0 auto;}
+#Nav {width: 100%;background:#FBFCFC;}
+#logo {margin-left: 5%;float: left;}
+#login {width: 20%;float: right;text-align: left;margin-top: 8px;}
+#search_box {width: 40%;background: red;}
+#search_box_text {width: 80%;float: left;}
+#search_button {width: 20%;margin-top: 5px ;float: right;}
+#header {	}
+#content_left {width: 15%;float: left;text-align: center;}
+#content_center {width: 60%;float: left;}
+#content_right {width: 25%;float: right;}
+content h3{margin: 10% 0 0 0;}
+content ul {padding: 0;}
+content ul li {list-style-type: none;padding: 0;}
+.fenlei {margin: 0 auto;}
+.list {float: left;width: 50%;}
+.list {float: left;width: 50%;}
+.img_box {float: left;width: 25%;}
+.img_box img {width: 100%;}
+#footer {clear: both;text-align: center;}
